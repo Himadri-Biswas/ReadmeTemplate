@@ -74,7 +74,7 @@ http://www.studywithanis.com
 ### Image syntax
 ![altText](images/ironman.jpg)
 
-<img src="images/ironman.jpg" width="400" title= "iron heart">
+<img src=".images/ironman.jpg" width="400" title= "iron heart">
 
 🫥
 
